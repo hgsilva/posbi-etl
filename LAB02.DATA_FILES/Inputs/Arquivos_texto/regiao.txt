@@ -1,0 +1,7 @@
+id_regiao;cidade;estado;regiao
+ 000000001;Brasília                    	 ;Distrito Federal                                   ;Centro Oeste
+ 000000002;Goiânia                 ;Goiás                                   ;Centro Oeste                                         
+ 000000003;Rio de Janeiro                  ;Rio de Janeiro                                   ;Sudeste                                         
+ 000000004;Porto Alegre                      ;Rio Grande do Sul                                   ;Sul                                         
+ 000000005;Fortaleza                     ;Ceará                                   ;Nordeste                                         
+ 000000006;Manaus                  ;Amazonas                                   ;Norte
