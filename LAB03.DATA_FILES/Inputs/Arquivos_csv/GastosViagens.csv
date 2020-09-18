@@ -1,0 +1,21 @@
+data_viagem;id_pais;origem_uf;destino_país;meio _de_transporte
+2019/01/11 00:00:00.000000000;3\Brasil            ;Paraná           ;Brasil;Distrito Federal-Aéreo
+2019/01/10 00:00:00.000000000;2\Brasil            ;Rio Grande do Sul;Brasil;Paraná-Aéreo        
+2019/01/08 00:00:00.000000000;1\Brasil            ;Distrito Federal ;Brasil;Rio Grande do Sul-Aéreo
+2019/01/14 00:00:00.000000000;1\Brasil            ;Distrito Federal ;Brasil;Rio de Janeiro-Aéreo
+2019/01/15 00:00:00.000000000;2\Brasil            ;Rio de Janeiro   ;Brasil;Distrito Federal-Aéreo
+2019/01/17 00:00:00.000000000;2\Brasil            ;Pernambuco       ;Brasil;Distrito Federal-Aéreo
+2019/01/16 00:00:00.000000000;1\Brasil            ;Distrito Federal ;Brasil;Pernambuco-Aéreo    
+2019/02/01 00:00:00.000000000;6\Brasil            ;Paraná           ;Brasil;Paraná-Veículo Próprio
+2019/01/26 00:00:00.000000000;2\Brasil            ;Paraná           ;Brasil;São Paulo-Aéreo     
+2019/01/26 00:00:00.000000000;1\Brasil            ;Paraná           ;Brasil;Paraná-Veículo Próprio
+2019/02/01 00:00:00.000000000;5\Brasil            ;São Paulo        ;Brasil;Paraná-Aéreo        
+2019/01/26 00:00:00.000000000;3\Brasil            ;São Paulo        ;Brasil;Bahia-Aéreo         
+2019/02/01 00:00:00.000000000;4\Brasil            ;Bahia            ;Brasil;São Paulo-Aéreo     
+2019/02/18 00:00:00.000000000;1\Brasil            ;Pernambuco       ;Brasil;Distrito Federal-Aéreo
+2019/02/20 00:00:00.000000000;2\Brasil            ;Distrito Federal ;Brasil;Pernambuco-Aéreo    
+2019/01/20 00:00:00.000000000;2\Brasil            ;Alagoas          ;Brasil;Espírito Santo-Aéreo
+2019/01/13 00:00:00.000000000;1\Brasil            ;Espírito Santo   ;Brasil;Alagoas-Aéreo       
+2019/01/07 00:00:00.000000000;1\Brasil            ;Paraná           ;Itália;Roma-Aéreo
+2019/01/07 00:00:00.000000000;2\Itália            ;Veneza;Itália;Roma-Aéreo
+2019/01/26 00:00:00.000000000;3\Itália            ;Veneza;Brasil;Paraná-Aéreo        

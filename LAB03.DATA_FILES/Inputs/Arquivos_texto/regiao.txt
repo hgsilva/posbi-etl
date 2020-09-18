@@ -1,0 +1,656 @@
+id_regiao;cidade;estado;país
+ 000000001;Alexandria                    ;New South Wales                                   ;Australia                                         
+ 000000002;Coffs Harbour                 ;New South Wales                                   ;Australia                                         
+ 000000003;Darlinghurst                  ;New South Wales                                   ;Australia                                         
+ 000000004;Goulburn                      ;New South Wales                                   ;Australia                                         
+ 000000005;Lane Cove                     ;New South Wales                                   ;Australia                                         
+ 000000006;Lavender Bay                  ;New South Wales                                   ;Australia                                         
+ 000000007;Malabar                       ;New South Wales                                   ;Australia                                         
+ 000000008;Matraville                    ;New South Wales                                   ;Australia                                         
+ 000000009;Milsons Point                 ;New South Wales                                   ;Australia                                         
+ 000000010;Newcastle                     ;New South Wales                                   ;Australia                                         
+ 000000011;North Ryde                    ;New South Wales                                   ;Australia                                         
+ 000000012;North Sydney                  ;New South Wales                                   ;Australia                                         
+ 000000013;Port Macquarie                ;New South Wales                                   ;Australia                                         
+ 000000014;Rhodes                        ;New South Wales                                   ;Australia                                         
+ 000000015;Silverwater                   ;New South Wales                                   ;Australia                                         
+ 000000016;Springwood                    ;New South Wales                                   ;Australia                                         
+ 000000017;St. Leonards                  ;New South Wales                                   ;Australia                                         
+ 000000018;Sydney                        ;New South Wales                                   ;Australia                                         
+ 000000019;Wollongong                    ;New South Wales                                   ;Australia                                         
+ 000000020;Brisbane                      ;Queensland                                        ;Australia                                         
+ 000000021;Caloundra                     ;Queensland                                        ;Australia                                         
+ 000000022;East Brisbane                 ;Queensland                                        ;Australia                                         
+ 000000023;Gold Coast                    ;Queensland                                        ;Australia                                         
+ 000000024;Hawthorne                     ;Queensland                                        ;Australia                                         
+ 000000025;Hervey Bay                    ;Queensland                                        ;Australia                                         
+ 000000026;Rockhampton                   ;Queensland                                        ;Australia                                         
+ 000000027;Townsville                    ;Queensland                                        ;Australia                                         
+ 000000028;Cloverdale                    ;South Australia                                   ;Australia                                         
+ 000000029;Findon                        ;South Australia                                   ;Australia                                         
+ 000000030;Perth                         ;South Australia                                   ;Australia                                         
+ 000000031;Hobart                        ;Tasmania                                          ;Australia                                         
+ 000000032;Bendigo                       ;Victoria                                          ;Australia                                         
+ 000000033;Cranbourne                    ;Victoria                                          ;Australia                                         
+ 000000034;Geelong                       ;Victoria                                          ;Australia                                         
+ 000000035;Melbourne                     ;Victoria                                          ;Australia                                         
+ 000000036;Melton                        ;Victoria                                          ;Australia                                         
+ 000000037;Seaford                       ;Victoria                                          ;Australia                                         
+ 000000038;South Melbourne               ;Victoria                                          ;Australia                                         
+ 000000039;Sunbury                       ;Victoria                                          ;Australia                                         
+ 000000040;Warrnambool                   ;Victoria                                          ;Australia                                         
+ 000000041;Calgary                       ;Alberta                                           ;Canada                                            
+ 000000042;Edmonton                      ;Alberta                                           ;Canada                                            
+ 000000043;Burnaby                       ;British Columbia                                  ;Canada                                            
+ 000000044;Burnaby                       ;British Columbia                                  ;Canada                                            
+ 000000045;Burnaby                       ;British Columbia                                  ;Canada                                            
+ 000000046;Burnaby                       ;British Columbia                                  ;Canada                                            
+ 000000047;Burnaby                       ;British Columbia                                  ;Canada                                            
+ 000000048;Burnaby                       ;British Columbia                                  ;Canada                                            
+ 000000049;Cliffside                     ;British Columbia                                  ;Canada                                            
+ 000000050;Haney                         ;British Columbia                                  ;Canada                                            
+ 000000051;Langford                      ;British Columbia                                  ;Canada                                            
+ 000000052;Langley                       ;British Columbia                                  ;Canada                                            
+ 000000053;Metchosin                     ;British Columbia                                  ;Canada                                            
+ 000000054;N. Vancouver                  ;British Columbia                                  ;Canada                                            
+ 000000055;Newton                        ;British Columbia                                  ;Canada                                            
+ 000000056;Newton                        ;British Columbia                                  ;Canada                                            
+ 000000057;Newton                        ;British Columbia                                  ;Canada                                            
+ 000000058;Newton                        ;British Columbia                                  ;Canada                                            
+ 000000059;Oak Bay                       ;British Columbia                                  ;Canada                                            
+ 000000060;Port Hammond                  ;British Columbia                                  ;Canada                                            
+ 000000061;Richmond                      ;British Columbia                                  ;Canada                                            
+ 000000062;Royal Oak                     ;British Columbia                                  ;Canada                                            
+ 000000063;Shawnee                       ;British Columbia                                  ;Canada                                            
+ 000000064;Shawnee                       ;British Columbia                                  ;Canada                                            
+ 000000065;Shawnee                       ;British Columbia                                  ;Canada                                            
+ 000000066;Sooke                         ;British Columbia                                  ;Canada                                            
+ 000000067;Surrey                        ;British Columbia                                  ;Canada                                            
+ 000000068;Vancouver                     ;British Columbia                                  ;Canada                                            
+ 000000069;Victoria                      ;British Columbia                                  ;Canada                                            
+ 000000070;Westminster                   ;British Columbia                                  ;Canada                                            
+ 000000071;Westminster                   ;British Columbia                                  ;Canada                                            
+ 000000072;Winnipeg                      ;Manitoba                                          ;Canada                                            
+ 000000073;Saint John                    ;Brunswick                                         ;Canada                                            
+ 000000074;Aurora                        ;Ontario                                           ;Canada                                            
+ 000000075;Barrie                        ;Ontario                                           ;Canada                                            
+ 000000076;Brampton                      ;Ontario                                           ;Canada                                            
+ 000000077;Chalk Riber                   ;Ontario                                           ;Canada                                            
+ 000000078;Etobicoke                     ;Ontario                                           ;Canada                                            
+ 000000079;Kanata                        ;Ontario                                           ;Canada                                            
+ 000000080;Kingston                      ;Ontario                                           ;Canada                                            
+ 000000081;Markham                       ;Ontario                                           ;Canada                                            
+ 000000082;Mississauga                   ;Ontario                                           ;Canada                                            
+ 000000083;Mississauga                   ;Ontario                                           ;Canada                                            
+ 000000084;Mississauga                   ;Ontario                                           ;Canada                                            
+ 000000085;Nepean                        ;Ontario                                           ;Canada                                            
+ 000000086;North York                    ;Ontario                                           ;Canada                                            
+ 000000087;Ottawa                        ;Ontario                                           ;Canada                                            
+ 000000088;Ottawa                        ;Ontario                                           ;Canada                                            
+ 000000089;Ottawa                        ;Ontario                                           ;Canada                                            
+ 000000090;Ottawa                        ;Ontario                                           ;Canada                                            
+ 000000091;Richmond Hill                 ;Ontario                                           ;Canada                                            
+ 000000092;Scarborough                   ;Ontario                                           ;Canada                                            
+ 000000093;Toronto                       ;Ontario                                           ;Canada                                            
+ 000000094;Toronto                       ;Ontario                                           ;Canada                                            
+ 000000095;Toronto                       ;Ontario                                           ;Canada                                            
+ 000000096;Toronto                       ;Ontario                                           ;Canada                                            
+ 000000097;Vancouver                     ;Ontario                                           ;Canada                                            
+ 000000098;Waterloo                      ;Ontario                                           ;Canada                                            
+ 000000099;Weston                        ;Ontario                                           ;Canada                                            
+ 000000100;Brossard                      ;Quebec                                            ;Canada                                            
+ 000000101;Brossard                      ;Quebec                                            ;Canada                                            
+ 000000102;Dorval                        ;Quebec                                            ;Canada                                            
+ 000000103;Hull                          ;Quebec                                            ;Canada                                            
+ 000000104;Montreal                      ;Quebec                                            ;Canada                                            
+ 000000105;Montreal                      ;Quebec                                            ;Canada                                            
+ 000000106;Montreal                      ;Quebec                                            ;Canada                                            
+ 000000107;Montreal                      ;Quebec                                            ;Canada                                            
+ 000000108;Outremont                     ;Quebec                                            ;Canada                                            
+ 000000109;Pnot-Rouge                    ;Quebec                                            ;Canada                                            
+ 000000110;Quebec                        ;Quebec                                            ;Canada                                            
+ 000000111;Sainte-Foy                    ;Quebec                                            ;Canada                                            
+ 000000112;Sillery                       ;Quebec                                            ;Canada                                            
+ 000000113;Ville De'anjou                ;Quebec                                            ;Canada                                            
+ 000000114;Berlin                        ;Brandenburg                                       ;Germany                                           
+ 000000115;Eilenburg                     ;Brandenburg                                       ;Germany                                           
+ 000000116;Augsburg                      ;Bayern                                            ;Germany                                           
+ 000000117;Erlangen                      ;Bayern                                            ;Germany                                           
+ 000000118;Frankfurt                     ;Bayern                                            ;Germany                                           
+ 000000119;Grevenbroich                  ;Bayern                                            ;Germany                                           
+ 000000120;Hof                           ;Bayern                                            ;Germany                                           
+ 000000121;Ingolstadt                    ;Bayern                                            ;Germany                                           
+ 000000122;Bad Soden                     ;Hessen                                            ;Germany                                           
+ 000000123;Berlin                        ;Hessen                                            ;Germany                                           
+ 000000124;Berlin                        ;Hessen                                            ;Germany                                           
+ 000000125;Berlin                        ;Hessen                                            ;Germany                                           
+ 000000126;Berlin                        ;Hessen                                            ;Germany                                           
+ 000000127;Darmstadt                     ;Hessen                                            ;Germany                                           
+ 000000128;Dresden                       ;Hessen                                            ;Germany                                           
+ 000000129;Duesseldorf                   ;Hessen                                            ;Germany                                           
+ 000000130;Duesseldorf                   ;Hessen                                            ;Germany                                           
+ 000000131;Frankfurt                     ;Hessen                                            ;Germany                                           
+ 000000132;Hamburg                       ;Hessen                                            ;Germany                                           
+ 000000133;Kassel                        ;Hessen                                            ;Germany                                           
+ 000000134;München                       ;Hessen                                            ;Germany                                           
+ 000000135;Salzgitter                    ;Hessen                                            ;Germany                                           
+ 000000136;Ascheim                       ;Hamburg                                           ;Germany                                           
+ 000000137;Augsburg                      ;Hamburg                                           ;Germany                                           
+ 000000138;Berlin                        ;Hamburg                                           ;Germany                                           
+ 000000139;Berlin                        ;Hamburg                                           ;Germany                                           
+ 000000140;Berlin                        ;Hamburg                                           ;Germany                                           
+ 000000141;Berlin                        ;Hamburg                                           ;Germany                                           
+ 000000142;Bonn                          ;Hamburg                                           ;Germany                                           
+ 000000143;Bonn                          ;Hamburg                                           ;Germany                                           
+ 000000144;Essen                         ;Hamburg                                           ;Germany                                           
+ 000000145;Frankfurt am Main             ;Hamburg                                           ;Germany                                           
+ 000000146;Frankfurt am Main             ;Hamburg                                           ;Germany                                           
+ 000000147;Hamburg                       ;Hamburg                                           ;Germany                                           
+ 000000148;Muehlheim                     ;Hamburg                                           ;Germany                                           
+ 000000149;Mühlheim                      ;Hamburg                                           ;Germany                                           
+ 000000150;München                       ;Hamburg                                           ;Germany                                           
+ 000000151;Paderborn                     ;Hamburg                                           ;Germany                                           
+ 000000152;Berlin                        ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000153;Berlin                        ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000154;Bonn                          ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000155;Bottrop                       ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000156;Braunschweig                  ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000157;Hannover                      ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000158;Leipzig                       ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000159;München                       ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000160;Paderborn                     ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000161;Solingen                      ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000162;Werne                         ;Nordrhein-Westfalen                               ;Germany                                           
+ 000000163;Berlin                        ;Saarland                                          ;Germany                                           
+ 000000164;Berlin                        ;Saarland                                          ;Germany                                           
+ 000000165;Berlin                        ;Saarland                                          ;Germany                                           
+ 000000166;Frankfurt am Main             ;Saarland                                          ;Germany                                           
+ 000000167;Frankfurt am Main             ;Saarland                                          ;Germany                                           
+ 000000168;Kiel                          ;Saarland                                          ;Germany                                           
+ 000000169;München                       ;Saarland                                          ;Germany                                           
+ 000000170;Münster                       ;Saarland                                          ;Germany                                           
+ 000000171;Neunkirchen                   ;Saarland                                          ;Germany                                           
+ 000000172;Offenbach                     ;Saarland                                          ;Germany                                           
+ 000000173;Poing                         ;Saarland                                          ;Germany                                           
+ 000000174;Saarbrücken                   ;Saarland                                          ;Germany                                           
+ 000000175;Saarlouis                     ;Saarland                                          ;Germany                                           
+ 000000176;Stuttgart                     ;Saarland                                          ;Germany                                           
+ 000000177;Stuttgart                     ;Saarland                                          ;Germany                                           
+ 000000178;Sulzbach Taunus               ;Saarland                                          ;Germany                                           
+ 000000179;Saint Ouen                    ;Charente-Maritime                                 ;France                                            
+ 000000180;Colomiers                     ;Garonne (Haute)                                   ;France                                            
+ 000000181;Aujan Mournede                ;Gers                                              ;France                                            
+ 000000182;Saint Ouen                    ;Loir et Cher                                      ;France                                            
+ 000000183;Orleans                       ;Loiret                                            ;France                                            
+ 000000184;Metz                          ;Moselle                                           ;France                                            
+ 000000185;Croix                         ;Nord                                              ;France                                            
+ 000000186;Dunkerque                     ;Nord                                              ;France                                            
+ 000000187;Lille                         ;Nord                                              ;France                                            
+ 000000188;Roncq                         ;Nord                                              ;France                                            
+ 000000189;Roubaix                       ;Nord                                              ;France                                            
+ 000000190;Villeneuve-d'Ascq             ;Nord                                              ;France                                            
+ 000000191;Boulogne-sur-Mer              ;Pas de Calais                                     ;France                                            
+ 000000192;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000193;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000194;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000195;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000196;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000197;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000198;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000199;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000200;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000201;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000202;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000203;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000204;Paris                         ;Seine (Paris)                                     ;France                                            
+ 000000205;Lieusaint                     ;Seine et Marne                                    ;France                                            
+ 000000206;Roissy en Brie                ;Seine et Marne                                    ;France                                            
+ 000000207;Chatou                        ;Yveline                                           ;France                                            
+ 000000208;Saint Germain en Laye         ;Yveline                                           ;France                                            
+ 000000209;Versailles                    ;Yveline                                           ;France                                            
+ 000000210;Saint Ouen                    ;Somme                                             ;France                                            
+ 000000211;Les Ulis                      ;Essonne                                           ;France                                            
+ 000000212;Morangis                      ;Essonne                                           ;France                                            
+ 000000213;Verrieres Le Buisson          ;Essonne                                           ;France                                            
+ 000000214;Boulogne-Billancourt          ;Hauts de Seine                                    ;France                                            
+ 000000215;Colombes                      ;Hauts de Seine                                    ;France                                            
+ 000000216;Courbevoie                    ;Hauts de Seine                                    ;France                                            
+ 000000217;Paris La Defense              ;Hauts de Seine                                    ;France                                            
+ 000000218;Sèvres                        ;Hauts de Seine                                    ;France                                            
+ 000000219;Suresnes                      ;Hauts de Seine                                    ;France                                            
+ 000000220;Bobigny                       ;Seine Saint Denis                                 ;France                                            
+ 000000221;Drancy                        ;Seine Saint Denis                                 ;France                                            
+ 000000222;Pantin                        ;Seine Saint Denis                                 ;France                                            
+ 000000223;Saint-Denis                   ;Seine Saint Denis                                 ;France                                            
+ 000000224;Tremblay-en-France            ;Seine Saint Denis                                 ;France                                            
+ 000000225;Orly                          ;Val de Marne                                      ;France                                            
+ 000000226;Cergy                         ;Val d'Oise                                        ;France                                            
+ 000000227;Abingdon                      ;England                                           ;United Kingdom                                    
+ 000000228;Basingstoke Hants             ;England                                           ;United Kingdom                                    
+ 000000229;Berks                         ;England                                           ;United Kingdom                                    
+ 000000230;Berkshire                     ;England                                           ;United Kingdom                                    
+ 000000231;Billericay                    ;England                                           ;United Kingdom                                    
+ 000000232;Birmingham                    ;England                                           ;United Kingdom                                    
+ 000000233;Bracknell                     ;England                                           ;United Kingdom                                    
+ 000000234;Bury                          ;England                                           ;United Kingdom                                    
+ 000000235;Cambridge                     ;England                                           ;United Kingdom                                    
+ 000000236;Cheltenham                    ;England                                           ;United Kingdom                                    
+ 000000237;Esher-Molesey                 ;England                                           ;United Kingdom                                    
+ 000000238;Gateshead                     ;England                                           ;United Kingdom                                    
+ 000000239;Gloucestershire               ;England                                           ;United Kingdom                                    
+ 000000240;High Wycombe                  ;England                                           ;United Kingdom                                    
+ 000000241;Kirkby                        ;England                                           ;United Kingdom                                    
+ 000000242;Lancaster                     ;England                                           ;United Kingdom                                    
+ 000000243;Leeds                         ;England                                           ;United Kingdom                                    
+ 000000244;London                        ;England                                           ;United Kingdom                                    
+ 000000245;London                        ;England                                           ;United Kingdom                                    
+ 000000246;London                        ;England                                           ;United Kingdom                                    
+ 000000247;London                        ;England                                           ;United Kingdom                                    
+ 000000248;London                        ;England                                           ;United Kingdom                                    
+ 000000249;London                        ;England                                           ;United Kingdom                                    
+ 000000250;London                        ;England                                           ;United Kingdom                                    
+ 000000251;London                        ;England                                           ;United Kingdom                                    
+ 000000252;London                        ;England                                           ;United Kingdom                                    
+ 000000253;London                        ;England                                           ;United Kingdom                                    
+ 000000254;London                        ;England                                           ;United Kingdom                                    
+ 000000255;London                        ;England                                           ;United Kingdom                                    
+ 000000256;London                        ;England                                           ;United Kingdom                                    
+ 000000257;London                        ;England                                           ;United Kingdom                                    
+ 000000258;Maidenhead                    ;England                                           ;United Kingdom                                    
+ 000000259;Milton Keynes                 ;England                                           ;United Kingdom                                    
+ 000000260;Milton Keynes                 ;England                                           ;United Kingdom                                    
+ 000000261;Newcastle upon Tyne           ;England                                           ;United Kingdom                                    
+ 000000262;Oxford                        ;England                                           ;United Kingdom                                    
+ 000000263;Oxford                        ;England                                           ;United Kingdom                                    
+ 000000264;Oxon                          ;England                                           ;United Kingdom                                    
+ 000000265;Peterborough                  ;England                                           ;United Kingdom                                    
+ 000000266;Reading                       ;England                                           ;United Kingdom                                    
+ 000000267;Runcorn                       ;England                                           ;United Kingdom                                    
+ 000000268;Liverpool                     ;England                                           ;United Kingdom                                    
+ 000000269;Stoke-on-Trent                ;England                                           ;United Kingdom                                    
+ 000000270;W. York                       ;England                                           ;United Kingdom                                    
+ 000000271;Warrington                    ;England                                           ;United Kingdom                                    
+ 000000272;Warrington                    ;England                                           ;United Kingdom                                    
+ 000000273;Watford                       ;England                                           ;United Kingdom                                    
+ 000000274;West Sussex                   ;England                                           ;United Kingdom                                    
+ 000000275;Wokingham                     ;England                                           ;United Kingdom                                    
+ 000000276;Woolston                      ;England                                           ;United Kingdom                                    
+ 000000277;York                          ;England                                           ;United Kingdom                                    
+ 000000278;York                          ;England                                           ;United Kingdom                                    
+ 000000279;York                          ;England                                           ;United Kingdom                                    
+ 000000280;Birmingham                    ;Alabama                                           ;United States                                     
+ 000000281;Florence                      ;Alabama                                           ;United States                                     
+ 000000282;Huntsville                    ;Alabama                                           ;United States                                     
+ 000000283;Mobile                        ;Alabama                                           ;United States                                     
+ 000000284;Montgomery                    ;Alabama                                           ;United States                                     
+ 000000285;Chandler                      ;Arizona                                           ;United States                                     
+ 000000286;Gilbert                       ;Arizona                                           ;United States                                     
+ 000000287;Mesa                          ;Arizona                                           ;United States                                     
+ 000000288;Phoenix                       ;Arizona                                           ;United States                                     
+ 000000289;Scottsdale                    ;Arizona                                           ;United States                                     
+ 000000290;Surprise                      ;Arizona                                           ;United States                                     
+ 000000291;Tucson                        ;Arizona                                           ;United States                                     
+ 000000292;Alhambra                      ;California                                        ;United States                                     
+ 000000293;Alpine                        ;California                                        ;United States                                     
+ 000000294;Auburn                        ;California                                        ;United States                                     
+ 000000295;Baldwin Park                  ;California                                        ;United States                                     
+ 000000296;Barstow                       ;California                                        ;United States                                     
+ 000000297;Bell Gardens                  ;California                                        ;United States                                     
+ 000000298;Bellflower                    ;California                                        ;United States                                     
+ 000000299;Berkeley                      ;California                                        ;United States                                     
+ 000000300;Beverly Hills                 ;California                                        ;United States                                     
+ 000000301;Burbank                       ;California                                        ;United States                                     
+ 000000302;Burlingame                    ;California                                        ;United States                                     
+ 000000303;Camarillo                     ;California                                        ;United States                                     
+ 000000304;Canoga Park                   ;California                                        ;United States                                     
+ 000000305;Carson                        ;California                                        ;United States                                     
+ 000000306;Cerritos                      ;California                                        ;United States                                     
+ 000000307;Chula Vista                   ;California                                        ;United States                                     
+ 000000308;Citrus Heights                ;California                                        ;United States                                     
+ 000000309;City Of Commerce              ;California                                        ;United States                                     
+ 000000310;Colma                         ;California                                        ;United States                                     
+ 000000311;Concord                       ;California                                        ;United States                                     
+ 000000312;Coronado                      ;California                                        ;United States                                     
+ 000000313;Culver City                   ;California                                        ;United States                                     
+ 000000314;Daly City                     ;California                                        ;United States                                     
+ 000000315;Downey                        ;California                                        ;United States                                     
+ 000000316;El Cajon                      ;California                                        ;United States                                     
+ 000000317;El Segundo                    ;California                                        ;United States                                     
+ 000000318;Elk Grove                     ;California                                        ;United States                                     
+ 000000319;Escondido                     ;California                                        ;United States                                     
+ 000000320;Eureka                        ;California                                        ;United States                                     
+ 000000321;Fontana                       ;California                                        ;United States                                     
+ 000000322;Fremont                       ;California                                        ;United States                                     
+ 000000323;Fullerton                     ;California                                        ;United States                                     
+ 000000324;Gilroy                        ;California                                        ;United States                                     
+ 000000325;Glendale                      ;California                                        ;United States                                     
+ 000000326;Grossmont                     ;California                                        ;United States                                     
+ 000000327;Hanford                       ;California                                        ;United States                                     
+ 000000328;Hayward                       ;California                                        ;United States                                     
+ 000000329;Imperial Beach                ;California                                        ;United States                                     
+ 000000330;Irvine                        ;California                                        ;United States                                     
+ 000000331;La Jolla                      ;California                                        ;United States                                     
+ 000000332;La Mesa                       ;California                                        ;United States                                     
+ 000000333;Lake Elsinore                 ;California                                        ;United States                                     
+ 000000334;Lakewood                      ;California                                        ;United States                                     
+ 000000335;Lemon Grove                   ;California                                        ;United States                                     
+ 000000336;Lincoln Acres                 ;California                                        ;United States                                     
+ 000000337;Long Beach                    ;California                                        ;United States                                     
+ 000000338;Los Angeles                   ;California                                        ;United States                                     
+ 000000339;Mill Valley                   ;California                                        ;United States                                     
+ 000000340;Milpitas                      ;California                                        ;United States                                     
+ 000000341;Modesto                       ;California                                        ;United States                                     
+ 000000342;Monrovia                      ;California                                        ;United States                                     
+ 000000343;National City                 ;California                                        ;United States                                     
+ 000000344;Newark                        ;California                                        ;United States                                     
+ 000000345;Newport Beach                 ;California                                        ;United States                                     
+ 000000346;Norwalk                       ;California                                        ;United States                                     
+ 000000347;Novato                        ;California                                        ;United States                                     
+ 000000348;Oakland                       ;California                                        ;United States                                     
+ 000000349;Ontario                       ;California                                        ;United States                                     
+ 000000350;Orange                        ;California                                        ;United States                                     
+ 000000351;Oxnard                        ;California                                        ;United States                                     
+ 000000352;Palo Alto                     ;California                                        ;United States                                     
+ 000000353;Pleasanton                    ;California                                        ;United States                                     
+ 000000354;Redlands                      ;California                                        ;United States                                     
+ 000000355;Redwood City                  ;California                                        ;United States                                     
+ 000000356;Sacramento                    ;California                                        ;United States                                     
+ 000000357;San Bruno                     ;California                                        ;United States                                     
+ 000000358;San Carlos                    ;California                                        ;United States                                     
+ 000000359;San Diego                     ;California                                        ;United States                                     
+ 000000360;San Francisco                 ;California                                        ;United States                                     
+ 000000361;San Gabriel                   ;California                                        ;United States                                     
+ 000000362;San Jose                      ;California                                        ;United States                                     
+ 000000363;San Mateo                     ;California                                        ;United States                                     
+ 000000364;San Ramon                     ;California                                        ;United States                                     
+ 000000365;San Ysidro                    ;California                                        ;United States                                     
+ 000000366;Sand City                     ;California                                        ;United States                                     
+ 000000367;Santa Ana                     ;California                                        ;United States                                     
+ 000000368;Santa Cruz                    ;California                                        ;United States                                     
+ 000000369;Santa Monica                  ;California                                        ;United States                                     
+ 000000370;Sherman Oaks                  ;California                                        ;United States                                     
+ 000000371;Simi Valley                   ;California                                        ;United States                                     
+ 000000372;Spring Valley                 ;California                                        ;United States                                     
+ 000000373;Stockton                      ;California                                        ;United States                                     
+ 000000374;Torrance                      ;California                                        ;United States                                     
+ 000000375;Trabuco Canyon                ;California                                        ;United States                                     
+ 000000376;Union City                    ;California                                        ;United States                                     
+ 000000377;Upland                        ;California                                        ;United States                                     
+ 000000378;Vacaville                     ;California                                        ;United States                                     
+ 000000379;Van Nuys                      ;California                                        ;United States                                     
+ 000000380;Visalia                       ;California                                        ;United States                                     
+ 000000381;Vista                         ;California                                        ;United States                                     
+ 000000382;Walnut Creek                  ;California                                        ;United States                                     
+ 000000383;West Covina                   ;California                                        ;United States                                     
+ 000000384;Whittier                      ;California                                        ;United States                                     
+ 000000385;Woodland Hills                ;California                                        ;United States                                     
+ 000000386;Denver                        ;Colorado                                          ;United States                                     
+ 000000387;Englewood                     ;Colorado                                          ;United States                                     
+ 000000388;Greeley                       ;Colorado                                          ;United States                                     
+ 000000389;Longmont                      ;Colorado                                          ;United States                                     
+ 000000390;Loveland                      ;Colorado                                          ;United States                                     
+ 000000391;Parker                        ;Colorado                                          ;United States                                     
+ 000000392;Westminster                   ;Colorado                                          ;United States                                     
+ 000000393;East Haven                    ;Connecticut                                       ;United States                                     
+ 000000394;Farmington                    ;Connecticut                                       ;United States                                     
+ 000000395;Hamden                        ;Connecticut                                       ;United States                                     
+ 000000396;Milford                       ;Connecticut                                       ;United States                                     
+ 000000397;New Haven                     ;Connecticut                                       ;United States                                     
+ 000000398;Stamford                      ;Connecticut                                       ;United States                                     
+ 000000399;Waterbury                     ;Connecticut                                       ;United States                                     
+ 000000400;Westport                      ;Connecticut                                       ;United States                                     
+ 000000401;Altamonte Springs             ;Florida                                           ;United States                                     
+ 000000402;Bradenton                     ;Florida                                           ;United States                                     
+ 000000403;Clearwater                    ;Florida                                           ;United States                                     
+ 000000404;Destin                        ;Florida                                           ;United States                                     
+ 000000405;Hollywood                     ;Florida                                           ;United States                                     
+ 000000406;Kendall                       ;Florida                                           ;United States                                     
+ 000000407;Lakeland                      ;Florida                                           ;United States                                     
+ 000000408;Merritt Island                ;Florida                                           ;United States                                     
+ 000000409;Miami                         ;Florida                                           ;United States                                     
+ 000000410;North Miami Beach             ;Florida                                           ;United States                                     
+ 000000411;Orlando                       ;Florida                                           ;United States                                     
+ 000000412;Sarasota                      ;Florida                                           ;United States                                     
+ 000000413;Sunrise                       ;Florida                                           ;United States                                     
+ 000000414;Tampa                         ;Florida                                           ;United States                                     
+ 000000415;Vero Beach                    ;Florida                                           ;United States                                     
+ 000000416;Atlanta                       ;Georgia                                           ;United States                                     
+ 000000417;Augusta                       ;Georgia                                           ;United States                                     
+ 000000418;Austell                       ;Georgia                                           ;United States                                     
+ 000000419;Byron                         ;Georgia                                           ;United States                                     
+ 000000420;Clarkston                     ;Georgia                                           ;United States                                     
+ 000000421;Columbus                      ;Georgia                                           ;United States                                     
+ 000000422;Decatur                       ;Georgia                                           ;United States                                     
+ 000000423;La Grange                     ;Georgia                                           ;United States                                     
+ 000000424;Marietta                      ;Georgia                                           ;United States                                     
+ 000000425;Mcdonough                     ;Georgia                                           ;United States                                     
+ 000000426;Savannah                      ;Georgia                                           ;United States                                     
+ 000000427;Suwanee                       ;Georgia                                           ;United States                                     
+ 000000428;Idaho Falls                   ;Idaho                                             ;United States                                     
+ 000000429;Lewiston                      ;Idaho                                             ;United States                                     
+ 000000430;Sandpoint                     ;Idaho                                             ;United States                                     
+ 000000431;Carol Stream                  ;Illinois                                          ;United States                                     
+ 000000432;Chicago                       ;Illinois                                          ;United States                                     
+ 000000433;Elgin                         ;Illinois                                          ;United States                                     
+ 000000434;Joliet                        ;Illinois                                          ;United States                                     
+ 000000435;Moline                        ;Illinois                                          ;United States                                     
+ 000000436;Norridge                      ;Illinois                                          ;United States                                     
+ 000000437;Peoria                        ;Illinois                                          ;United States                                     
+ 000000438;Tuscola                       ;Illinois                                          ;United States                                     
+ 000000439;West Chicago                  ;Illinois                                          ;United States                                     
+ 000000440;Wood Dale                     ;Illinois                                          ;United States                                     
+ 000000441;Daleville                     ;Indiana                                           ;United States                                     
+ 000000442;Fort Wayne                    ;Indiana                                           ;United States                                     
+ 000000443;Indianapolis                  ;Indiana                                           ;United States                                     
+ 000000444;Logansport                    ;Indiana                                           ;United States                                     
+ 000000445;Michigan City                 ;Indiana                                           ;United States                                     
+ 000000446;New Castle                    ;Indiana                                           ;United States                                     
+ 000000447;South Bend                    ;Indiana                                           ;United States                                     
+ 000000448;Campbellsville                ;Kentucky                                          ;United States                                     
+ 000000449;Florence                      ;Kentucky                                          ;United States                                     
+ 000000450;Newport                       ;Kentucky                                          ;United States                                     
+ 000000451;Saint Matthews                ;Kentucky                                          ;United States                                     
+ 000000452;Somerset                      ;Kentucky                                          ;United States                                     
+ 000000453;Braintree                     ;Massachusetts                                     ;United States                                     
+ 000000454;Norwood                       ;Massachusetts                                     ;United States                                     
+ 000000455;Randolph                      ;Massachusetts                                     ;United States                                     
+ 000000456;Saugus                        ;Massachusetts                                     ;United States                                     
+ 000000457;Wrentham                      ;Massachusetts                                     ;United States                                     
+ 000000458;Baltimore                     ;Maryland                                          ;United States                                     
+ 000000459;Kittery                       ;Maine                                             ;United States                                     
+ 000000460;Detroit                       ;Michigan                                          ;United States                                     
+ 000000461;Holland                       ;Michigan                                          ;United States                                     
+ 000000462;Howell                        ;Michigan                                          ;United States                                     
+ 000000463;Madison Heights               ;Michigan                                          ;United States                                     
+ 000000464;Midland                       ;Michigan                                          ;United States                                     
+ 000000465;Monroe                        ;Michigan                                          ;United States                                     
+ 000000466;Novi                          ;Michigan                                          ;United States                                     
+ 000000467;Pontiac                       ;Michigan                                          ;United States                                     
+ 000000468;Port Huron                    ;Michigan                                          ;United States                                     
+ 000000469;Redford                       ;Michigan                                          ;United States                                     
+ 000000470;Saginaw                       ;Michigan                                          ;United States                                     
+ 000000471;Southfield                    ;Michigan                                          ;United States                                     
+ 000000472;Southgate                     ;Michigan                                          ;United States                                     
+ 000000473;Westland                      ;Michigan                                          ;United States                                     
+ 000000474;Zeeland                       ;Michigan                                          ;United States                                     
+ 000000475;Branch                        ;Minnesota                                         ;United States                                     
+ 000000476;Duluth                        ;Minnesota                                         ;United States                                     
+ 000000477;Edina                         ;Minnesota                                         ;United States                                     
+ 000000478;Medford                       ;Minnesota                                         ;United States                                     
+ 000000479;Minneapolis                   ;Minnesota                                         ;United States                                     
+ 000000480;Woodbury                      ;Minnesota                                         ;United States                                     
+ 000000481;Branson                       ;Missouri                                          ;United States                                     
+ 000000482;Ferguson                      ;Missouri                                          ;United States                                     
+ 000000483;Jefferson City                ;Missouri                                          ;United States                                     
+ 000000484;Kansas City                   ;Missouri                                          ;United States                                     
+ 000000485;Odessa                        ;Missouri                                          ;United States                                     
+ 000000486;Saint Ann                     ;Missouri                                          ;United States                                     
+ 000000487;Saint Louis                   ;Missouri                                          ;United States                                     
+ 000000488;Biloxi                        ;Mississippi                                       ;United States                                     
+ 000000489;Gulfport                      ;Mississippi                                       ;United States                                     
+ 000000490;Tupelo                        ;Mississippi                                       ;United States                                     
+ 000000491;Billings                      ;Montana                                           ;United States                                     
+ 000000492;Great Falls                   ;Montana                                           ;United States                                     
+ 000000493;Missoula                      ;Montana                                           ;United States                                     
+ 000000494;Charlotte                     ;North Carolina                                    ;United States                                     
+ 000000495;Greensboro                    ;North Carolina                                    ;United States                                     
+ 000000496;Kannapolis                    ;North Carolina                                    ;United States                                     
+ 000000497;Raleigh                       ;North Carolina                                    ;United States                                     
+ 000000498;Rocky Mount                   ;North Carolina                                    ;United States                                     
+ 000000499;Smithfield                    ;North Carolina                                    ;United States                                     
+ 000000500;Winston-Salem                 ;North Carolina                                    ;United States                                     
+ 000000501;Hooksett                      ;New Hampshire                                     ;United States                                     
+ 000000502;Nashua                        ;New Hampshire                                     ;United States                                     
+ 000000503;Plaistow                      ;New Hampshire                                     ;United States                                     
+ 000000504;Tilton                        ;New Hampshire                                     ;United States                                     
+ 000000505;Las Cruces                    ;New Mexico                                        ;United States                                     
+ 000000506;Rio Rancho                    ;New Mexico                                        ;United States                                     
+ 000000507;Santa Fe                      ;New Mexico                                        ;United States                                     
+ 000000508;Fernley                       ;Nevada                                            ;United States                                     
+ 000000509;Las Vegas                     ;Nevada                                            ;United States                                     
+ 000000510;North Las Vegas               ;Nevada                                            ;United States                                     
+ 000000511;Reno                          ;Nevada                                            ;United States                                     
+ 000000512;Sparks                        ;Nevada                                            ;United States                                     
+ 000000513;Central Valley                ;New York                                          ;United States                                     
+ 000000514;Cheektowaga                   ;New York                                          ;United States                                     
+ 000000515;Clay                          ;New York                                          ;United States                                     
+ 000000516;De Witt                       ;New York                                          ;United States                                     
+ 000000517;Endicott                      ;New York                                          ;United States                                     
+ 000000518;Ithaca                        ;New York                                          ;United States                                     
+ 000000519;Lake George                   ;New York                                          ;United States                                     
+ 000000520;Melville                      ;New York                                          ;United States                                     
+ 000000521;New Hartford                  ;New York                                          ;United States                                     
+ 000000522;New York                      ;New York                                          ;United States                                     
+ 000000523;Valley Stream                 ;New York                                          ;United States                                     
+ 000000524;Burbank                       ;Ohio                                              ;United States                                     
+ 000000525;Cincinnati                    ;Ohio                                              ;United States                                     
+ 000000526;Columbus                      ;Ohio                                              ;United States                                     
+ 000000527;Euclid                        ;Ohio                                              ;United States                                     
+ 000000528;Heath                         ;Ohio                                              ;United States                                     
+ 000000529;Holland                       ;Ohio                                              ;United States                                     
+ 000000530;Mansfield                     ;Ohio                                              ;United States                                     
+ 000000531;Mentor                        ;Ohio                                              ;United States                                     
+ 000000532;North Randall                 ;Ohio                                              ;United States                                     
+ 000000533;Oberlin                       ;Ohio                                              ;United States                                     
+ 000000534;Springdale                    ;Ohio                                              ;United States                                     
+ 000000535;Albany                        ;Oregon                                            ;United States                                     
+ 000000536;Beaverton                     ;Oregon                                            ;United States                                     
+ 000000537;Clackamas                     ;Oregon                                            ;United States                                     
+ 000000538;Clackamas                     ;Oregon                                            ;United States                                     
+ 000000539;Corvallis                     ;Oregon                                            ;United States                                     
+ 000000540;Hillsboro                     ;Oregon                                            ;United States                                     
+ 000000541;Klamath Falls                 ;Oregon                                            ;United States                                     
+ 000000542;Lake Oswego                   ;Oregon                                            ;United States                                     
+ 000000543;Lebanon                       ;Oregon                                            ;United States                                     
+ 000000544;Medford                       ;Oregon                                            ;United States                                     
+ 000000545;Milwaukie                     ;Oregon                                            ;United States                                     
+ 000000546;Oregon City                   ;Oregon                                            ;United States                                     
+ 000000547;Portland                      ;Oregon                                            ;United States                                     
+ 000000548;Salem                         ;Oregon                                            ;United States                                     
+ 000000549;Springfield                   ;Oregon                                            ;United States                                     
+ 000000550;Tigard                        ;Oregon                                            ;United States                                     
+ 000000551;Troutdale                     ;Oregon                                            ;United States                                     
+ 000000552;W. Linn                       ;Oregon                                            ;United States                                     
+ 000000553;Woodburn                      ;Oregon                                            ;United States                                     
+ 000000554;Warwick                       ;Rhode Island                                      ;United States                                     
+ 000000555;West Kingston                 ;Rhode Island                                      ;United States                                     
+ 000000556;Woonsocket                    ;Rhode Island                                      ;United States                                     
+ 000000557;Bluffton                      ;South Carolina                                    ;United States                                     
+ 000000558;Gaffney                       ;South Carolina                                    ;United States                                     
+ 000000559;Myrtle Beach                  ;South Carolina                                    ;United States                                     
+ 000000560;Denby                         ;South Dakota                                      ;United States                                     
+ 000000561;North Sioux City              ;South Dakota                                      ;United States                                     
+ 000000562;Crossville                    ;Tennessee                                         ;United States                                     
+ 000000563;Hixson                        ;Tennessee                                         ;United States                                     
+ 000000564;Kingsport                     ;Tennessee                                         ;United States                                     
+ 000000565;La Vergne                     ;Tennessee                                         ;United States                                     
+ 000000566;Maryville                     ;Tennessee                                         ;United States                                     
+ 000000567;Memphis                       ;Tennessee                                         ;United States                                     
+ 000000568;Millington                    ;Tennessee                                         ;United States                                     
+ 000000569;Nashville                     ;Tennessee                                         ;United States                                     
+ 000000570;Pigeon Forge                  ;Tennessee                                         ;United States                                     
+ 000000571;Arlington                     ;Texas                                             ;United States                                     
+ 000000572;Austin                        ;Texas                                             ;United States                                     
+ 000000573;Baytown                       ;Texas                                             ;United States                                     
+ 000000574;Carrollton                    ;Texas                                             ;United States                                     
+ 000000575;Cedar Park                    ;Texas                                             ;United States                                     
+ 000000576;College Station               ;Texas                                             ;United States                                     
+ 000000577;Corpus Christi                ;Texas                                             ;United States                                     
+ 000000578;Dallas                        ;Texas                                             ;United States                                     
+ 000000579;Fort Worth                    ;Texas                                             ;United States                                     
+ 000000580;Garland                       ;Texas                                             ;United States                                     
+ 000000581;Hillsboro                     ;Texas                                             ;United States                                     
+ 000000582;Houston                       ;Texas                                             ;United States                                     
+ 000000583;Humble                        ;Texas                                             ;United States                                     
+ 000000584;Irving                        ;Texas                                             ;United States                                     
+ 000000585;Killeen                       ;Texas                                             ;United States                                     
+ 000000586;La Marque                     ;Texas                                             ;United States                                     
+ 000000587;Laredo                        ;Texas                                             ;United States                                     
+ 000000588;Mesquite                      ;Texas                                             ;United States                                     
+ 000000589;Plano                         ;Texas                                             ;United States                                     
+ 000000590;Round Rock                    ;Texas                                             ;United States                                     
+ 000000591;San Antonio                   ;Texas                                             ;United States                                     
+ 000000592;Stafford                      ;Texas                                             ;United States                                     
+ 000000593;Sugar Land                    ;Texas                                             ;United States                                     
+ 000000594;Bountiful                     ;Utah                                              ;United States                                     
+ 000000595;Cedar City                    ;Utah                                              ;United States                                     
+ 000000596;Ogden                         ;Utah                                              ;United States                                     
+ 000000597;Park City                     ;Utah                                              ;United States                                     
+ 000000598;Riverton                      ;Utah                                              ;United States                                     
+ 000000599;Salt Lake City                ;Utah                                              ;United States                                     
+ 000000600;Sandy                         ;Utah                                              ;United States                                     
+ 000000601;Tooele                        ;Utah                                              ;United States                                     
+ 000000602;Chantilly                     ;Virginia                                          ;United States                                     
+ 000000603;Falls Church                  ;Virginia                                          ;United States                                     
+ 000000604;Leesburg                      ;Virginia                                          ;United States                                     
+ 000000605;Newport News                  ;Virginia                                          ;United States                                     
+ 000000606;Virginia Beach                ;Virginia                                          ;United States                                     
+ 000000607;Ballard                       ;Washington                                        ;United States                                     
+ 000000608;Bellevue                      ;Washington                                        ;United States                                     
+ 000000609;Bellingham                    ;Washington                                        ;United States                                     
+ 000000610;Bothell                       ;Washington                                        ;United States                                     
+ 000000611;Bremerton                     ;Washington                                        ;United States                                     
+ 000000612;Burien                        ;Washington                                        ;United States                                     
+ 000000613;Chehalis                      ;Washington                                        ;United States                                     
+ 000000614;Edmonds                       ;Washington                                        ;United States                                     
+ 000000615;Ellensburg                    ;Washington                                        ;United States                                     
+ 000000616;Everett                       ;Washington                                        ;United States                                     
+ 000000617;Federal Way                   ;Washington                                        ;United States                                     
+ 000000618;Issaquah                      ;Washington                                        ;United States                                     
+ 000000619;Kelso                         ;Washington                                        ;United States                                     
+ 000000620;Kenmore                       ;Washington                                        ;United States                                     
+ 000000621;Kennewick                     ;Washington                                        ;United States                                     
+ 000000622;Kent                          ;Washington                                        ;United States                                     
+ 000000623;Kirkland                      ;Washington                                        ;United States                                     
+ 000000624;Lacey                         ;Washington                                        ;United States                                     
+ 000000625;Longview                      ;Washington                                        ;United States                                     
+ 000000626;Lynnwood                      ;Washington                                        ;United States                                     
+ 000000627;Marysville                    ;Washington                                        ;United States                                     
+ 000000628;Monroe                        ;Washington                                        ;United States                                     
+ 000000629;Newport Hills                 ;Washington                                        ;United States                                     
+ 000000630;North Bend                    ;Washington                                        ;United States                                     
+ 000000631;Olympia                       ;Washington                                        ;United States                                     
+ 000000632;Port Orchard                  ;Washington                                        ;United States                                     
+ 000000633;Puyallup                      ;Washington                                        ;United States                                     
+ 000000634;Redmond                       ;Washington                                        ;United States                                     
+ 000000635;Renton                        ;Washington                                        ;United States                                     
+ 000000636;Sammamish                     ;Washington                                        ;United States                                     
+ 000000637;Seattle                       ;Washington                                        ;United States                                     
+ 000000638;Sedro Woolley                 ;Washington                                        ;United States                                     
+ 000000639;Sequim                        ;Washington                                        ;United States                                     
+ 000000640;Shelton                       ;Washington                                        ;United States                                     
+ 000000641;Spokane                       ;Washington                                        ;United States                                     
+ 000000642;Tacoma                        ;Washington                                        ;United States                                     
+ 000000643;Union Gap                     ;Washington                                        ;United States                                     
+ 000000644;Walla Walla                   ;Washington                                        ;United States                                     
+ 000000645;Washougal                     ;Washington                                        ;United States                                     
+ 000000646;Wenatchee                     ;Washington                                        ;United States                                     
+ 000000647;Woodinville                   ;Washington                                        ;United States                                     
+ 000000648;Yakima                        ;Washington                                        ;United States                                     
+ 000000649;Johnson Creek                 ;Wisconsin                                         ;United States                                     
+ 000000650;Milwaukee                     ;Wisconsin                                         ;United States                                     
+ 000000651;Mosinee                       ;Wisconsin                                         ;United States                                     
+ 000000652;Racine                        ;Wisconsin                                         ;United States                                     
+ 000000653;Casper                        ;Wyoming                                           ;United States                                     
+ 000000654;Cheyenne                      ;Wyoming                                           ;United States                                     
+ 000000655;Rock Springs                  ;Wyoming                                           ;United States                                     

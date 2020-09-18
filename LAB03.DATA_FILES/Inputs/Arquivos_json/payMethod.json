@@ -1,0 +1,3 @@
+{"data":[
+{
+"ChaveMetodoPagamento":"CCR","CurrencyKey":1,"CurrencyName":"Cartão de Crédito"},{"ChaveMetodoPagamento":"TRF","CurrencyKey":2,"CurrencyName":"Transferência"},{"ChaveMetodoPagamento":"DOC","CurrencyKey":3,"CurrencyName":"DOC"},{"ChaveMetodoPagamento":"TED","CurrencyKey":4,"CurrencyName":"TED"},{"ChaveMetodoPagamento":"PIX","CurrencyKey":5,"CurrencyName":"Pessoa a Pessoa"},{"ChaveMetodoPagamento":"DEB","CurrencyKey":6,"CurrencyName":"Débito"},{"ChaveMetodoPagamento":"BTC","CurrencyKey":7,"CurrencyName":"Bitcoin"}]}
