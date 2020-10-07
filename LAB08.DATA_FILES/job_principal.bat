@@ -1,0 +1,1 @@
+D:\POS BI ETL\pdi-ce-9.0.0.0-423\data-integration>kitchen.bat /rep:LAB_PDI /user:admin /pass:admin /job:"00 - Carga DW" /dir:/LAB08/
