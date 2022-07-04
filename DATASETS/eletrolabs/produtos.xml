@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<records>
+	<record>
+		<codigo>7707</codigo>
+		<categoria>Eletrônicos</categoria>
+		<produto>Televisor</produto>
+		<marca>Samsung</marca>
+		<modelo>OLED 45 polegadas</modelo>
+		<valor>3000</valor>
+	</record>
+	<record>
+		<codigo>8712</codigo>
+		<categoria>Eletrônicos</categoria>
+		<produto>DVD Player</produto>
+		<marca>LG</marca>
+		<modelo>Ultra Sound</modelo>
+		<valor>500</valor>
+	</record>
+		<record>
+		<codigo>1190</codigo>
+		<categoria>Eletrônicos</categoria>
+		<produto>Notebook</produto>
+		<marca>Dell</marca>
+		<modelo>XPS 13</modelo>
+		<valor>2000</valor>
+	</record>
+	<record>
+		<codigo>4307</codigo>
+		<categoria>Eletrodomésticos</categoria>
+		<produto>Microondas</produto>
+		<marca>Electrolux</marca>
+		<modelo>20 lts prata</modelo>
+		<valor>300</valor>
+	</record>
+		<record>
+		<codigo>8909</codigo>
+		<categoria>Eletrodomésticos</categoria>
+		<produto>Geladeira</produto>
+		<marca>Brastemp</marca>
+		<modelo>Ultra Freeze</modelo>
+		<valor>700</valor>
+	</record>
+		<record>
+		<codigo>9557</codigo>
+		<categoria>Eletrodomésticos</categoria>
+		<produto>Fogão</produto>
+		<marca>Electrolux</marca>
+		<modelo>Indução Vitro-cerâmico</modelo>
+		<valor>1500</valor>
+	</record>
+</records>
